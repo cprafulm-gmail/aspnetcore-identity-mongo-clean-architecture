@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "d7ltgqHu1yMrgQROPuOKR+330SIAsvpZtO8AJlJrCCRQBiTk0WXN025yiexRLUpto0RYdw038uYNBTKuNC1YhQ==",
+  "success": true,
+  "projectFilePath": "G:\\DejavuTours\\jdt-traveltech-dejavu-crs-api-cf11b99373f8\\Dejavu.Crs.Common\\Dejavu.Crs.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Praful\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Praful\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Praful\\.nuget\\packages\\mongodb.bson\\2.18.0\\mongodb.bson.2.18.0.nupkg.sha512",
+    "C:\\Users\\Praful\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

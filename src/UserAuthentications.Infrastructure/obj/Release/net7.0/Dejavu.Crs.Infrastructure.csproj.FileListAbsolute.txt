@@ -1,0 +1,17 @@
+G:\DejavuTours\WorkingAll\dejavu-pro\src\Dejavu.Crs.Infrastructure\bin\Release\net7.0\Dejavu.Crs.Infrastructure.deps.json
+G:\DejavuTours\WorkingAll\dejavu-pro\src\Dejavu.Crs.Infrastructure\bin\Release\net7.0\Dejavu.Crs.Infrastructure.dll
+G:\DejavuTours\WorkingAll\dejavu-pro\src\Dejavu.Crs.Infrastructure\bin\Release\net7.0\Dejavu.Crs.Infrastructure.pdb
+G:\DejavuTours\WorkingAll\dejavu-pro\src\Dejavu.Crs.Infrastructure\bin\Release\net7.0\Dejavu.Crs.Core.dll
+G:\DejavuTours\WorkingAll\dejavu-pro\src\Dejavu.Crs.Infrastructure\bin\Release\net7.0\Dejavu.Crs.Shared.dll
+G:\DejavuTours\WorkingAll\dejavu-pro\src\Dejavu.Crs.Infrastructure\bin\Release\net7.0\Dejavu.Crs.Core.pdb
+G:\DejavuTours\WorkingAll\dejavu-pro\src\Dejavu.Crs.Infrastructure\bin\Release\net7.0\Dejavu.Crs.Shared.pdb
+G:\DejavuTours\WorkingAll\dejavu-pro\src\Dejavu.Crs.Infrastructure\obj\Release\net7.0\Dejavu.Crs.Infrastructure.csproj.AssemblyReference.cache
+G:\DejavuTours\WorkingAll\dejavu-pro\src\Dejavu.Crs.Infrastructure\obj\Release\net7.0\Dejavu.Crs.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+G:\DejavuTours\WorkingAll\dejavu-pro\src\Dejavu.Crs.Infrastructure\obj\Release\net7.0\Dejavu.Crs.Infrastructure.AssemblyInfoInputs.cache
+G:\DejavuTours\WorkingAll\dejavu-pro\src\Dejavu.Crs.Infrastructure\obj\Release\net7.0\Dejavu.Crs.Infrastructure.AssemblyInfo.cs
+G:\DejavuTours\WorkingAll\dejavu-pro\src\Dejavu.Crs.Infrastructure\obj\Release\net7.0\Dejavu.Crs.Infrastructure.csproj.CoreCompileInputs.cache
+G:\DejavuTours\WorkingAll\dejavu-pro\src\Dejavu.Crs.Infrastructure\obj\Release\net7.0\Dejavu.Crs.Infrastructure.csproj.CopyComplete
+G:\DejavuTours\WorkingAll\dejavu-pro\src\Dejavu.Crs.Infrastructure\obj\Release\net7.0\Dejavu.Crs.Infrastructure.dll
+G:\DejavuTours\WorkingAll\dejavu-pro\src\Dejavu.Crs.Infrastructure\obj\Release\net7.0\refint\Dejavu.Crs.Infrastructure.dll
+G:\DejavuTours\WorkingAll\dejavu-pro\src\Dejavu.Crs.Infrastructure\obj\Release\net7.0\Dejavu.Crs.Infrastructure.pdb
+G:\DejavuTours\WorkingAll\dejavu-pro\src\Dejavu.Crs.Infrastructure\obj\Release\net7.0\ref\Dejavu.Crs.Infrastructure.dll

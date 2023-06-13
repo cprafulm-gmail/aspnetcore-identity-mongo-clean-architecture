@@ -1,0 +1,12 @@
+G:\DejavuTours\WorkingAll\dejavu-pro\src\Dejavu.Crs.Shared\bin\Release\net7.0\Dejavu.Crs.Shared.deps.json
+G:\DejavuTours\WorkingAll\dejavu-pro\src\Dejavu.Crs.Shared\bin\Release\net7.0\Dejavu.Crs.Shared.dll
+G:\DejavuTours\WorkingAll\dejavu-pro\src\Dejavu.Crs.Shared\bin\Release\net7.0\Dejavu.Crs.Shared.pdb
+G:\DejavuTours\WorkingAll\dejavu-pro\src\Dejavu.Crs.Shared\obj\Release\net7.0\Dejavu.Crs.Shared.csproj.AssemblyReference.cache
+G:\DejavuTours\WorkingAll\dejavu-pro\src\Dejavu.Crs.Shared\obj\Release\net7.0\Dejavu.Crs.Shared.GeneratedMSBuildEditorConfig.editorconfig
+G:\DejavuTours\WorkingAll\dejavu-pro\src\Dejavu.Crs.Shared\obj\Release\net7.0\Dejavu.Crs.Shared.AssemblyInfoInputs.cache
+G:\DejavuTours\WorkingAll\dejavu-pro\src\Dejavu.Crs.Shared\obj\Release\net7.0\Dejavu.Crs.Shared.AssemblyInfo.cs
+G:\DejavuTours\WorkingAll\dejavu-pro\src\Dejavu.Crs.Shared\obj\Release\net7.0\Dejavu.Crs.Shared.csproj.CoreCompileInputs.cache
+G:\DejavuTours\WorkingAll\dejavu-pro\src\Dejavu.Crs.Shared\obj\Release\net7.0\Dejavu.Crs.Shared.dll
+G:\DejavuTours\WorkingAll\dejavu-pro\src\Dejavu.Crs.Shared\obj\Release\net7.0\refint\Dejavu.Crs.Shared.dll
+G:\DejavuTours\WorkingAll\dejavu-pro\src\Dejavu.Crs.Shared\obj\Release\net7.0\Dejavu.Crs.Shared.pdb
+G:\DejavuTours\WorkingAll\dejavu-pro\src\Dejavu.Crs.Shared\obj\Release\net7.0\ref\Dejavu.Crs.Shared.dll

@@ -1,0 +1,17 @@
+G:\DejavuTours\WorkingAll\UserAuthentications\src\UserAuthentications.Infrastructure\bin\Debug\net7.0\UserAuthentications.Infrastructure.deps.json
+G:\DejavuTours\WorkingAll\UserAuthentications\src\UserAuthentications.Infrastructure\bin\Debug\net7.0\UserAuthentications.Infrastructure.dll
+G:\DejavuTours\WorkingAll\UserAuthentications\src\UserAuthentications.Infrastructure\bin\Debug\net7.0\UserAuthentications.Infrastructure.pdb
+G:\DejavuTours\WorkingAll\UserAuthentications\src\UserAuthentications.Infrastructure\bin\Debug\net7.0\UserAuthentications.Core.dll
+G:\DejavuTours\WorkingAll\UserAuthentications\src\UserAuthentications.Infrastructure\bin\Debug\net7.0\UserAuthentications.Shared.dll
+G:\DejavuTours\WorkingAll\UserAuthentications\src\UserAuthentications.Infrastructure\bin\Debug\net7.0\UserAuthentications.Core.pdb
+G:\DejavuTours\WorkingAll\UserAuthentications\src\UserAuthentications.Infrastructure\bin\Debug\net7.0\UserAuthentications.Shared.pdb
+G:\DejavuTours\WorkingAll\UserAuthentications\src\UserAuthentications.Infrastructure\obj\Debug\net7.0\UserAuthentications.Infrastructure.csproj.AssemblyReference.cache
+G:\DejavuTours\WorkingAll\UserAuthentications\src\UserAuthentications.Infrastructure\obj\Debug\net7.0\UserAuthentications.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+G:\DejavuTours\WorkingAll\UserAuthentications\src\UserAuthentications.Infrastructure\obj\Debug\net7.0\UserAuthentications.Infrastructure.AssemblyInfoInputs.cache
+G:\DejavuTours\WorkingAll\UserAuthentications\src\UserAuthentications.Infrastructure\obj\Debug\net7.0\UserAuthentications.Infrastructure.AssemblyInfo.cs
+G:\DejavuTours\WorkingAll\UserAuthentications\src\UserAuthentications.Infrastructure\obj\Debug\net7.0\UserAuthentications.Infrastructure.csproj.CoreCompileInputs.cache
+G:\DejavuTours\WorkingAll\UserAuthentications\src\UserAuthentications.Infrastructure\obj\Debug\net7.0\UserAuthentications.Infrastructure.csproj.CopyComplete
+G:\DejavuTours\WorkingAll\UserAuthentications\src\UserAuthentications.Infrastructure\obj\Debug\net7.0\UserAuthentications.Infrastructure.dll
+G:\DejavuTours\WorkingAll\UserAuthentications\src\UserAuthentications.Infrastructure\obj\Debug\net7.0\refint\UserAuthentications.Infrastructure.dll
+G:\DejavuTours\WorkingAll\UserAuthentications\src\UserAuthentications.Infrastructure\obj\Debug\net7.0\UserAuthentications.Infrastructure.pdb
+G:\DejavuTours\WorkingAll\UserAuthentications\src\UserAuthentications.Infrastructure\obj\Debug\net7.0\ref\UserAuthentications.Infrastructure.dll

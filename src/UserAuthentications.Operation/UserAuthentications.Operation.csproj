@@ -1,0 +1,58 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Contracts\**" />
+    <Compile Remove="DTOs\**" />
+    <EmbeddedResource Remove="Contracts\**" />
+    <EmbeddedResource Remove="DTOs\**" />
+    <None Remove="Contracts\**" />
+    <None Remove="DTOs\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="Abstractions\IBookingInfoService.cs" />
+    <Compile Remove="Abstractions\ICountryService.cs" />
+    <Compile Remove="Abstractions\IEmailService.cs" />
+    <Compile Remove="Abstractions\IEntityService.cs" />
+    <Compile Remove="Abstractions\IMediaService.cs" />
+    <Compile Remove="Abstractions\IPackageService.cs" />
+    <Compile Remove="Abstractions\IPackagesnewService.cs" />
+    <Compile Remove="Abstractions\IPaymentService.cs" />
+    <Compile Remove="Abstractions\IUserService.cs" />
+    <Compile Remove="Abstractions\IUserService_old.cs" />
+    <Compile Remove="Implementation\BookingInfoService.cs" />
+    <Compile Remove="Implementation\CountryService.cs" />
+    <Compile Remove="Implementation\EmailService.cs" />
+    <Compile Remove="Implementation\EntityService.cs" />
+    <Compile Remove="Implementation\MediaService.cs" />
+    <Compile Remove="Implementation\PackageService.cs" />
+    <Compile Remove="Implementation\PackagesnewService.cs" />
+    <Compile Remove="Implementation\PaymentService.cs" />
+    <Compile Remove="Implementation\UserService.cs" />
+    <Compile Remove="Implementation\UserService_old.cs" />
+    <Compile Remove="MappingProfiles\MediaProfile.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Google.Apis.Auth" Version="1.60.0" />
+    <PackageReference Include="Google.Apis.Plus.v1" Version="1.49.0.1627" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="6.0.15" />
+    <PackageReference Include="Microsoft.IdentityModel.Tokens" Version="6.27.0" />
+    <PackageReference Include="MimeKit" Version="3.6.0" />
+    <PackageReference Include="RazorPay.Core" Version="1.0.2" />
+    <PackageReference Include="SendGrid" Version="9.28.1" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.10.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\UserAuthentications.Core\UserAuthentications.Core.csproj" />
+    <ProjectReference Include="..\UserAuthentications.Infrastructure\UserAuthentications.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

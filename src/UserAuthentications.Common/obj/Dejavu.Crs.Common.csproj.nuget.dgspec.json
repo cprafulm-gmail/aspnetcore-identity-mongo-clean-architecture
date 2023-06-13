@@ -1,0 +1,220 @@
+{
+  "format": 1,
+  "restore": {
+    "G:\\DejavuTours\\jdt-traveltech-dejavu-crs-api-cf11b99373f8\\Dejavu.Crs.Common\\Dejavu.Crs.Common.csproj": {}
+  },
+  "projects": {
+    "G:\\DejavuTours\\jdt-traveltech-dejavu-crs-api-cf11b99373f8\\Dejavu.Crs.Common\\Dejavu.Crs.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\DejavuTours\\jdt-traveltech-dejavu-crs-api-cf11b99373f8\\Dejavu.Crs.Common\\Dejavu.Crs.Common.csproj",
+        "projectName": "Dejavu.Crs.Common",
+        "projectPath": "G:\\DejavuTours\\jdt-traveltech-dejavu-crs-api-cf11b99373f8\\Dejavu.Crs.Common\\Dejavu.Crs.Common.csproj",
+        "packagesPath": "C:\\Users\\Praful\\.nuget\\packages\\",
+        "outputPath": "G:\\DejavuTours\\jdt-traveltech-dejavu-crs-api-cf11b99373f8\\Dejavu.Crs.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Praful\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://artifacts.travelcarma.com/repository/nuget/": {},
+          "https://nuget.pkg.github.com/travelcarmateam/index.json": {},
+          "https://www.myget.org/F/aspnetvnext/": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "G:\\DejavuTours\\jdt-traveltech-dejavu-crs-api-cf11b99373f8\\src\\Dejavu.Crs.Core\\Dejavu.Crs.Core.csproj": {
+                "projectPath": "G:\\DejavuTours\\jdt-traveltech-dejavu-crs-api-cf11b99373f8\\src\\Dejavu.Crs.Core\\Dejavu.Crs.Core.csproj"
+              },
+              "G:\\DejavuTours\\jdt-traveltech-dejavu-crs-api-cf11b99373f8\\src\\Dejavu.Crs.Shared\\Dejavu.Crs.Shared.csproj": {
+                "projectPath": "G:\\DejavuTours\\jdt-traveltech-dejavu-crs-api-cf11b99373f8\\src\\Dejavu.Crs.Shared\\Dejavu.Crs.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\DejavuTours\\jdt-traveltech-dejavu-crs-api-cf11b99373f8\\src\\Dejavu.Crs.Core\\Dejavu.Crs.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\DejavuTours\\jdt-traveltech-dejavu-crs-api-cf11b99373f8\\src\\Dejavu.Crs.Core\\Dejavu.Crs.Core.csproj",
+        "projectName": "Dejavu.Crs.Core",
+        "projectPath": "G:\\DejavuTours\\jdt-traveltech-dejavu-crs-api-cf11b99373f8\\src\\Dejavu.Crs.Core\\Dejavu.Crs.Core.csproj",
+        "packagesPath": "C:\\Users\\Praful\\.nuget\\packages\\",
+        "outputPath": "G:\\DejavuTours\\jdt-traveltech-dejavu-crs-api-cf11b99373f8\\src\\Dejavu.Crs.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Praful\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://artifacts.travelcarma.com/repository/nuget/": {},
+          "https://nuget.pkg.github.com/travelcarmateam/index.json": {},
+          "https://www.myget.org/F/aspnetvnext/": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "G:\\DejavuTours\\jdt-traveltech-dejavu-crs-api-cf11b99373f8\\src\\Dejavu.Crs.Shared\\Dejavu.Crs.Shared.csproj": {
+                "projectPath": "G:\\DejavuTours\\jdt-traveltech-dejavu-crs-api-cf11b99373f8\\src\\Dejavu.Crs.Shared\\Dejavu.Crs.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[2.18.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\DejavuTours\\jdt-traveltech-dejavu-crs-api-cf11b99373f8\\src\\Dejavu.Crs.Shared\\Dejavu.Crs.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\DejavuTours\\jdt-traveltech-dejavu-crs-api-cf11b99373f8\\src\\Dejavu.Crs.Shared\\Dejavu.Crs.Shared.csproj",
+        "projectName": "Dejavu.Crs.Shared",
+        "projectPath": "G:\\DejavuTours\\jdt-traveltech-dejavu-crs-api-cf11b99373f8\\src\\Dejavu.Crs.Shared\\Dejavu.Crs.Shared.csproj",
+        "packagesPath": "C:\\Users\\Praful\\.nuget\\packages\\",
+        "outputPath": "G:\\DejavuTours\\jdt-traveltech-dejavu-crs-api-cf11b99373f8\\src\\Dejavu.Crs.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Praful\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://artifacts.travelcarma.com/repository/nuget/": {},
+          "https://nuget.pkg.github.com/travelcarmateam/index.json": {},
+          "https://www.myget.org/F/aspnetvnext/": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

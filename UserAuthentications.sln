@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{0AFB35F0-882F-452E-B094-EC8754408130}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{B0DBCB6E-9D11-47F2-81CE-0424EADAF158}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UserAuthentications.Api", "src\UserAuthentications.Api\UserAuthentications.Api.csproj", "{DEDE179B-8BC0-472E-BDEB-1209F523EE25}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UserAuthentications.Core", "src\UserAuthentications.Core\UserAuthentications.Core.csproj", "{AC1DE941-2D37-434E-A658-D8543C564D3C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UserAuthentications.Operation", "src\UserAuthentications.Operation\UserAuthentications.Operation.csproj", "{E8AC10FC-B5AC-4D92-9FC6-C67E3A4051C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserAuthentications.Infrastructure", "src\UserAuthentications.Infrastructure\UserAuthentications.Infrastructure.csproj", "{F8C070EB-D18D-4DF3-9155-AD5308662B95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserAuthentications.Shared", "src\UserAuthentications.Shared\UserAuthentications.Shared.csproj", "{6A0781E9-BDC1-4D1B-B398-22D0AE66D2D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEDE179B-8BC0-472E-BDEB-1209F523EE25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEDE179B-8BC0-472E-BDEB-1209F523EE25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEDE179B-8BC0-472E-BDEB-1209F523EE25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEDE179B-8BC0-472E-BDEB-1209F523EE25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC1DE941-2D37-434E-A658-D8543C564D3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC1DE941-2D37-434E-A658-D8543C564D3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC1DE941-2D37-434E-A658-D8543C564D3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC1DE941-2D37-434E-A658-D8543C564D3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8AC10FC-B5AC-4D92-9FC6-C67E3A4051C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8AC10FC-B5AC-4D92-9FC6-C67E3A4051C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8AC10FC-B5AC-4D92-9FC6-C67E3A4051C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8AC10FC-B5AC-4D92-9FC6-C67E3A4051C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8C070EB-D18D-4DF3-9155-AD5308662B95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8C070EB-D18D-4DF3-9155-AD5308662B95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8C070EB-D18D-4DF3-9155-AD5308662B95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8C070EB-D18D-4DF3-9155-AD5308662B95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A0781E9-BDC1-4D1B-B398-22D0AE66D2D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A0781E9-BDC1-4D1B-B398-22D0AE66D2D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A0781E9-BDC1-4D1B-B398-22D0AE66D2D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A0781E9-BDC1-4D1B-B398-22D0AE66D2D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DEDE179B-8BC0-472E-BDEB-1209F523EE25} = {0AFB35F0-882F-452E-B094-EC8754408130}
+		{AC1DE941-2D37-434E-A658-D8543C564D3C} = {0AFB35F0-882F-452E-B094-EC8754408130}
+		{E8AC10FC-B5AC-4D92-9FC6-C67E3A4051C3} = {0AFB35F0-882F-452E-B094-EC8754408130}
+		{F8C070EB-D18D-4DF3-9155-AD5308662B95} = {0AFB35F0-882F-452E-B094-EC8754408130}
+		{6A0781E9-BDC1-4D1B-B398-22D0AE66D2D3} = {0AFB35F0-882F-452E-B094-EC8754408130}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9138BE0D-29AA-4A12-B058-C9A3FCDAED3D}
+	EndGlobalSection
+EndGlobal

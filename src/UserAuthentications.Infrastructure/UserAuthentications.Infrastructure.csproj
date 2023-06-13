@@ -1,0 +1,37 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Persistence\IUsernewRepository.cs" />
+    <Compile Remove="Persistence\IUserRepository - Copy.cs" />
+    <Compile Remove="Persistence\IUserRepository_new.cs" />
+    <Compile Remove="Persistence\IUserRepository_old.cs" />
+    <Compile Remove="Persistence\UsernewRepository.cs" />
+    <Compile Remove="Persistence\UserRepository - Copy.cs" />
+    <Compile Remove="Persistence\UserRepository_new.cs" />
+    <Compile Remove="Persistence\UserRepository_old.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AspNetCore.Identity.Mongo" Version="8.3.3" />
+    <PackageReference Include="AspNetCore.Identity.MongoDbCore" Version="3.1.2" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="6.0.15" />
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="6.0.1" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Binder" Version="6.0.0" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="6.0.0" />
+    <PackageReference Include="Microsoft.IdentityModel.Tokens" Version="6.27.0" />
+    <PackageReference Include="MongoDB.Driver" Version="2.18.0" />
+    <PackageReference Include="RazorPay.Core" Version="1.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\UserAuthentications.Core\UserAuthentications.Core.csproj" />
+    <ProjectReference Include="..\UserAuthentications.Shared\UserAuthentications.Shared.csproj" />
+  </ItemGroup>
+
+</Project>

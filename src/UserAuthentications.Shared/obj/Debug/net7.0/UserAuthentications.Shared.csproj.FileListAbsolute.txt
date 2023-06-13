@@ -1,0 +1,12 @@
+G:\DejavuTours\WorkingAll\UserAuthentications\src\UserAuthentications.Shared\bin\Debug\net7.0\UserAuthentications.Shared.deps.json
+G:\DejavuTours\WorkingAll\UserAuthentications\src\UserAuthentications.Shared\bin\Debug\net7.0\UserAuthentications.Shared.dll
+G:\DejavuTours\WorkingAll\UserAuthentications\src\UserAuthentications.Shared\bin\Debug\net7.0\UserAuthentications.Shared.pdb
+G:\DejavuTours\WorkingAll\UserAuthentications\src\UserAuthentications.Shared\obj\Debug\net7.0\UserAuthentications.Shared.csproj.AssemblyReference.cache
+G:\DejavuTours\WorkingAll\UserAuthentications\src\UserAuthentications.Shared\obj\Debug\net7.0\UserAuthentications.Shared.GeneratedMSBuildEditorConfig.editorconfig
+G:\DejavuTours\WorkingAll\UserAuthentications\src\UserAuthentications.Shared\obj\Debug\net7.0\UserAuthentications.Shared.AssemblyInfoInputs.cache
+G:\DejavuTours\WorkingAll\UserAuthentications\src\UserAuthentications.Shared\obj\Debug\net7.0\UserAuthentications.Shared.AssemblyInfo.cs
+G:\DejavuTours\WorkingAll\UserAuthentications\src\UserAuthentications.Shared\obj\Debug\net7.0\UserAuthentications.Shared.csproj.CoreCompileInputs.cache
+G:\DejavuTours\WorkingAll\UserAuthentications\src\UserAuthentications.Shared\obj\Debug\net7.0\UserAuthentications.Shared.dll
+G:\DejavuTours\WorkingAll\UserAuthentications\src\UserAuthentications.Shared\obj\Debug\net7.0\refint\UserAuthentications.Shared.dll
+G:\DejavuTours\WorkingAll\UserAuthentications\src\UserAuthentications.Shared\obj\Debug\net7.0\UserAuthentications.Shared.pdb
+G:\DejavuTours\WorkingAll\UserAuthentications\src\UserAuthentications.Shared\obj\Debug\net7.0\ref\UserAuthentications.Shared.dll
